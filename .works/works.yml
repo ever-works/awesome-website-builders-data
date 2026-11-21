@@ -1,18 +1,21 @@
-company_name: "Awesome Website Builders"
+company_name: Awesome Website Builders
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Website Builders"
-initial_prompt: "A curated directory of website, landing-page and AI website builders, hosted and open source. Include products such as Webflow, Framer, Wix, Squarespace, WordPress.com, Hostinger Website Builder, Carrd, Durable, Unbounce, Leadpages, Softr, Ever Works, plus other notable commercial and open-source options. Categories: Website Builders, Landing-Page Builders, AI Website Builders, No-Code Site Builders, Open-Source & Self-Hosted, One-Page & Portfolio Sites. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-website-builders-website"
-company_website: "https://website-builders.ever.works"
+name: Awesome Website Builders
+initial_prompt: "A curated directory of website, landing-page and AI website
+  builders, hosted and open source. Include products such as Webflow, Framer,
+  Wix, Squarespace, WordPress.com, Hostinger Website Builder, Carrd, Durable,
+  Unbounce, Leadpages, Softr, Ever Works, plus other notable commercial and
+  open-source options. Categories: Website Builders, Landing-Page Builders, AI
+  Website Builders, No-Code Site Builders, Open-Source & Self-Hosted, One-Page &
+  Portfolio Sites. For every item capture the official website, a short factual
+  description, pricing model (free, freemium, paid, open source), deployment
+  (cloud or self-hosted), key features and integrations."
+website_repo: ever-works/awesome-website-builders-website
+company_website: https://website-builders.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
