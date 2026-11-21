@@ -1,0 +1,88 @@
+- id: no-code
+  name: "No-Code"
+- id: cms
+  name: "CMS"
+- id: e-commerce
+  name: "E-commerce"
+- id: freemium
+  name: "Freemium"
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: prototyping
+  name: "Prototyping"
+- id: drag-and-drop
+  name: "Drag-and-Drop"
+- id: enterprise
+  name: "Enterprise"
+- id: templates
+  name: "Templates"
+- id: portfolio
+  name: "Portfolio"
+- id: blogging
+  name: "Blogging"
+- id: hosting
+  name: "Hosting"
+- id: one-page
+  name: "One-Page"
+- id: free-plan
+  name: "Free Plan"
+- id: small-business
+  name: "Small Business"
+- id: crm
+  name: "CRM"
+- id: a-b-testing
+  name: "A/B Testing"
+- id: marketing
+  name: "Marketing"
+- id: lead-generation
+  name: "Lead Generation"
+- id: airtable
+  name: "Airtable"
+- id: google-sheets
+  name: "Google Sheets"
+- id: client-portal
+  name: "Client Portal"
+- id: payments
+  name: "Payments"
+- id: pos
+  name: "POS"
+- id: web-apps
+  name: "Web Apps"
+- id: database
+  name: "Database"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: newsletter
+  name: "Newsletter"
+- id: membership
+  name: "Membership"
+- id: mit
+  name: "MIT"
+- id: gplv2
+  name: "GPLv2"
+- id: visual-builder
+  name: "Visual Builder"
+- id: agplv3
+  name: "AGPLv3"
+- id: agency
+  name: "Agency"
+- id: white-label
+  name: "White Label"
+- id: wordpress
+  name: "WordPress"
+- id: presentations
+  name: "Presentations"
+- id: design
+  name: "Design"
+- id: typography
+  name: "Typography"
+- id: animation
+  name: "Animation"
+- id: photography
+  name: "Photography"

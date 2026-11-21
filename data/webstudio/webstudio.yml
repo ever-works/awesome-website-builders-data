@@ -1,0 +1,13 @@
+name: "Webstudio"
+description: "Open-source visual website builder that connects to headless CMSs and can be self-hosted or used on cloud. Exports clean HTML/CSS. Licensed under AGPLv3."
+source_url: "https://webstudio.is/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "no-code"
+  - "visual-builder"
+  - "agplv3"
+icon_url: "https://icons.duckduckgo.com/ip3/webstudio.is.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://webstudio.is/>\n- Repository: <https://github.com/webstudio-is/webstudio>\n\nLicense: AGPLv3.\n"
+updated_at: "2026-11-21 01:09"

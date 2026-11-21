@@ -1,0 +1,13 @@
+name: "WordPress.org"
+description: "Open-source content management system for self-hosted websites and blogs. Extensible via themes and plugins; requires separate hosting. Licensed under GPLv2."
+source_url: "https://wordpress.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "cms"
+  - "blogging"
+  - "gplv2"
+icon_url: "https://icons.duckduckgo.com/ip3/wordpress.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://wordpress.org/>\n- Repository: <https://github.com/WordPress/WordPress>\n\nLicense: GPLv2.\n"
+updated_at: "2026-11-21 01:09"

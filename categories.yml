@@ -1,0 +1,12 @@
+- id: website-builders
+  name: "Website Builders"
+- id: landing-page-builders
+  name: "Landing-Page Builders"
+- id: ai-website-builders
+  name: "AI Website Builders"
+- id: no-code-site-builders
+  name: "No-Code Site Builders"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: one-page-and-portfolio-sites
+  name: "One-Page & Portfolio Sites"
